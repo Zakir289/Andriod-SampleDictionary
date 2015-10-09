@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="welcomeTitle">Welcome to word to word meaning</string>
+    <string name="welcomeText">
+        Sample app which provide word to word meaning
+        <li>1. Press anywhere to get a random Word/Meaning.\n</li>
+        <li>2. Double click on the Word to copy it.</li>
+    </string>
+    <string name="ok">OK</string>
+    <string name="textbox_default_word">Word</string>
+    <string name="textbox_default_meaning">Meaning</string>
+
+
+</resources>

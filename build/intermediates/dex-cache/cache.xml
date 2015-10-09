@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zakirelahi/AndroidProjects/Reference projects/EnglishDictionary/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/zakirelahi/AndroidProjects/Reference projects/EnglishDictionary/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-08dc32c3ae1c2f621a4cb6084de92d52186449a7.jar" />
+    </item>
+    <item
+        jar="/Users/zakirelahi/AndroidProjects/Reference projects/EnglishDictionary/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/zakirelahi/AndroidProjects/Reference projects/EnglishDictionary/app/build/intermediates/pre-dexed/debug/classes-3d878c226e453a4536e61f4942857ec9a0f4f492.jar" />
+    </item>
+    <item
+        jar="/Users/zakirelahi/AndroidProjects/Reference projects/EnglishDictionary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/zakirelahi/AndroidProjects/Reference projects/EnglishDictionary/app/build/intermediates/pre-dexed/debug/classes-eec81bd35f1ab3e304d03958449414b58eb7f4c9.jar" />
+    </item>
+    <item
+        jar="/Users/zakirelahi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/zakirelahi/AndroidProjects/Reference projects/EnglishDictionary/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-ff820229d1a05fa5541fcafed1bd5ec6386855b3.jar" />
+    </item>
+    <item
+        jar="/Users/zakirelahi/AndroidProjects/Reference projects/EnglishDictionary/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/zakirelahi/AndroidProjects/Reference projects/EnglishDictionary/app/build/intermediates/pre-dexed/debug/classes-fc3e82e4f49f2f0d3262fd896ad53cf54acc2400.jar" />
+    </item>
+
+</items>
