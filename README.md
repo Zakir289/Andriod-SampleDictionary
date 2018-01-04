@@ -1,5 +1,5 @@
 # Andriod-SampleDictionary
-
+Myself being a web developer, Want to try with a sample android app
 While writing the app its better to **ensure that your layout is flexible and adapts to different screen sizes**
 
 *  you should use "wrap_content" and"match_parent" for the width and height of some view components. 
